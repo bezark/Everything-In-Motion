@@ -2,9 +2,9 @@
 	"name" : "BezarkThesis",
 	"version" : 1,
 	"creationdate" : 3731723113,
-	"modificationdate" : 3732445232,
+	"modificationdate" : 3732571229,
 	"viewrect" : [ 50.0, 132.0, 300.0, 500.0 ],
-	"autoorganize" : 1,
+	"autoorganize" : 0,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
 	"autolocalize" : 1,
@@ -22,6 +22,16 @@
 			}
 ,
 			"light.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"sequence.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"scoreBoard.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
