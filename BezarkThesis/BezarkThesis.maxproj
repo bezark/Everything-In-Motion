@@ -2,7 +2,7 @@
 	"name" : "BezarkThesis",
 	"version" : 1,
 	"creationdate" : 3731723113,
-	"modificationdate" : 3732571229,
+	"modificationdate" : 3732663878,
 	"viewrect" : [ 50.0, 132.0, 300.0, 500.0 ],
 	"autoorganize" : 0,
 	"hideprojectwindow" : 0,
@@ -33,7 +33,8 @@
 ,
 			"scoreBoard.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1
+				"local" : 1,
+				"toplevel" : 1
 			}
 
 		}
@@ -56,6 +57,21 @@
 ,
 			"city2.jpg" : 			{
 				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"mixkit-game-show-fun-suspense-942.wav" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"mixkit-game-show-uplifting-944.wav" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"mixkit-ominous-drums-227.wav" : 			{
+				"kind" : "audiofile",
 				"local" : 1
 			}
 
